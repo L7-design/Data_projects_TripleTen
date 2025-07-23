@@ -6,13 +6,21 @@ The aim of this project is to investigate how the number of votes a title reciev
 
 Description of data:
 name — actor/director's name and last name
+
 character — character played (for actors)
+
 role — the person's contribution to the title (it can be in the capacity of either actor or director)
+
 title — title of the movie (show)
+
 type — show or movie
+
 release year — year when movie (show) was released
+
 genres — list of genres under which the movie (show) falls
+
 imdb score' — score on IMDb
+
 imdb votes — votes on IMDb
 
 ## Libraries Used 
