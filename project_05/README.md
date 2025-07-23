@@ -10,10 +10,19 @@ Hypothesis: The following hypothesis will be examined: a.Average user ratings of
 
 ## Data 
 Description of data: 
+
 name:the title of the video game
-platform: the gaming console used including PS2, Wii, X360, etc year_of_release: the year when the game was first released to the public genre:category that groups games based on shared characteristics including (action, puzzle etc...) na_sales:North american sales in USD millions eu_sales:European sales in USD millions
+
+platform: the gaming console used including PS2, Wii, X360, etc year_of_release: the year when the game was first released to the public 
+
+genre:category that groups games based on shared characteristics including (action, puzzle etc...) na_sales:North american sales in USD millions eu_sales:European sales in USD millions
+
 jp_sales:Japan sales in USD millions
-other_sales: sales in other countries in USD millions critic_score: rating of a game by professional game critics (maximum score is 100) user_score:rating of a game by the public (maximum score is 10)
+
+other_sales: sales in other countries in USD millions critic_score: rating of a game by professional game critics (maximum score is 100) 
+
+user_score:rating of a game by the public (maximum score is 10)
+
 rating: system used to specify suitability for different age groups based on content (ESRB is the rating system)
 
 ## Libraries Used 
