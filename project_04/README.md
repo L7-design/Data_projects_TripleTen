@@ -8,16 +8,27 @@ Pandas, Plotly
 Description of the data:
 
 price:cost of the used vehicle.
+
 model_year:year that the vehicle was marketed.
+
 model: specific version/design of a car. 
+
 condition: the wear and tear of a car ranging from salvage to like new. 
+
 cylinders: the number of cylinders in the engine of a car impacting its power and economy ranging from 4 to 8. 
+
 fuel:the type of fuel used to power the vehicle's engine.
+
 transmission: type of transmission used by the vechicle to control speed and direction. 
+
 type: classification of the vehicle ranging from sedan to pick up. 
+
 paint_color: color of the exterior of the vehicle. 
+
 is_4wd: wheather or not the vehicle is 4 wheel drive. 
+
 date_posted: the date the car was put up for sale. 
+
 days_listed: how many days it took to sell the car.
 
 ## Table of Contents:
