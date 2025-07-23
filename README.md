@@ -16,7 +16,7 @@ statistical data analysis, hypothesis testing and interpretation of statistical 
 [project 04](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_04): 
 Skills demonstrated:
 
-project 05: 
+[project 05](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_05): 
 Skills demonstrated:
 
 Project 06: 
