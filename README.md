@@ -28,7 +28,7 @@ Skills demonstrated:
 [project 08](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_08): 
 Skills demonstrated:
 
-Project 09: 
+[project 09](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_09): 
 Skills demonstrated:
 
 Project 10: 
