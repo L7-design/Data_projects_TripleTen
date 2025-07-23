@@ -19,13 +19,13 @@ Skills demonstrated:
 [project 05](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_05): 
 Skills demonstrated:
 
-[Project 06](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_06): 
+[project 06](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_06): 
 Skills demonstrated:
 
-[Project 07](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_07): 
+[project 07](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_07): 
 Skills demonstrated:
 
-Project 08: 
+[project 08](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_08): 
 Skills demonstrated:
 
 Project 09: 
