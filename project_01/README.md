@@ -1,5 +1,7 @@
 ## Introduction 
+
 The aim of this project is to investigate how the number of votes a title recieves impacts it ratings. In this project data was examined, preprocssed and analyzed. A conclusion was drawn based on the trends evaluated in the data.
+
 ##Data 
 
 Description of data:
