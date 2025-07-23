@@ -5,10 +5,10 @@
 ## Table of Contents For Projects 
 
 [project_01](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_01):
-Skills demonstrated in this project basic python, data exploration, data preprocessing.  
+basic python, data exploration, data preprocessing.  
 
-Project: 
-Skills demonstrated:
+[project_02](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_02): 
+data preprocessing, exploratory data analysis, and data visualization. 
 
 Project: 
 Skills demonstrated:
