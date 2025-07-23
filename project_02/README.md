@@ -1,9 +1,11 @@
 ## Introduction
 The purpose of this study is to clean up the data and provide insights on the shopping behaviors of Instacart's customers. The main steps of the project are as follows:
 
-Open data files to examine their contents.
-Clean up the data by verifying data types, find and fill in missing values, find and remove duplicates.
-Analyze the data by examining shopping patterns incliuding: a.Most popular time of day to shop b.Most popular day to show c.How long between order placements d.Distribution of order e. Top 20 products ordered f. How many items purchased in one order and the distribution g. Top 20 most reordered items The visualizations of the data will provide useful insights for Instacart to better serve their customers. 
+1.Open data files to examine their contents.
+
+2.Clean up the data by verifying data types, find and fill in missing values, find and remove duplicates.
+
+3.Analyze the data by examining shopping patterns incliuding: a.Most popular time of day to shop b.Most popular day to show c.How long between order placements d.Distribution of order e. Top 20 products ordered f. How many items purchased in one order and the distribution g. Top 20 most reordered items The visualizations of the data will provide useful insights for Instacart to better serve their customers. 
 
 ## Data 
 Description of the data:
