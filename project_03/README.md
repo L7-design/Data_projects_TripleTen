@@ -1,6 +1,11 @@
 ## Introduction
 This project aim is to perform an analysis for the telecom operator Megaline. Megaline offers two prepaid plans, Surf and Ultimate. The goal is to examine which plan Surf or Ulimate brings in more revenue. This will support the company is readjusting there advertizing budget.
 
+Purpose: 
+The project aims to answer the following questions: 
+1. Which plan surf or ultimate generates the most revenue?
+2. Do users demographics (aka regions) impact revenue? 
+
 ## Data 
 Description of the data: 
 
