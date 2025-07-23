@@ -1,6 +1,12 @@
 ## Introduction:
 This project aims to perform an analysis for a used car company, examining the dataset for patterns in car valuations and factors that impact the amount of time it takes to sell a used car.
 
+Purpose: The project aims to answer the following questions:
+
+What cars types are most valuable?
+Does condition of the vehicle impact the amount of time it took to sell the car?
+Does the model year impact the amount of time it took to sell the car?
+
 ## Libaries Used:
 Pandas, Plotly 
 
