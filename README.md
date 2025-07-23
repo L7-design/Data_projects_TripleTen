@@ -43,7 +43,7 @@ Skills demonstrated:
 [project 13](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_13): 
 Skills demonstrated:
 
-Project 14: 
+[project 14](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_14): 
 Skills demonstrated:
 
 Project 15: 
