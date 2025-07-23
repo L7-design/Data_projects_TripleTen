@@ -1,7 +1,7 @@
-#Introduction
+## Introduction
 The aim of this project is to provide insight into customer behaviors. The data was cleaned and visualizations were created to provide key insights. 
 
-##Data 
+## Data 
 Description of the data:
 
 instacart_orders.csv: each row corresponds to one order on the Instacart app
@@ -34,7 +34,7 @@ departments.csv
 ## Libraries Used 
 pandas
 
-##Table of Contents 
+## Table of Contents 
 1. Introduction
 2. Data Preprocessing
 3. EDA
