@@ -10,16 +10,44 @@ basic python, data exploration, data preprocessing.
 [project_02](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_02): 
 data preprocessing, exploratory data analysis, and data visualization. 
 
-Project: 
+[project 03](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_03): 
+statistical data analysis, hypothesis testing and interpretation of statistical insights. 
+
+project 04: 
 Skills demonstrated:
 
-Project: 
+project 05: 
 Skills demonstrated:
 
-Project: 
+Project 06: 
 Skills demonstrated:
 
-Project: 
+Project 07: 
 Skills demonstrated:
 
+Project 08: 
+Skills demonstrated:
 
+Project 09: 
+Skills demonstrated:
+
+Project 10: 
+Skills demonstrated:
+
+Project 11: 
+Skills demonstrated:
+
+Project 12: 
+Skills demonstrated:
+
+Project 13: 
+Skills demonstrated:
+
+Project 14: 
+Skills demonstrated:
+
+Project 15: 
+Skills demonstrated:
+
+Project 16: 
+Skills demonstrated:
