@@ -2,6 +2,7 @@
 This project is analyzing data for an online gaming store Ice, which sells video games globally. The aim is to identify patterns that determine the success of a game or not. Data will be available from open sources including users reviews, expert reviews, genres, platforms and historical data on game sales. This will support the advertising team in creating a successful campaign for 2017.
 
 Purpose: The project will aim to answer the following questions:
+
 What patterns are associated with a successful game?
 Which game genres or platforms achieve better sales?
 Do user and professional reviewer scores impact sales?
