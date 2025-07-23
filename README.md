@@ -13,7 +13,7 @@ data preprocessing, exploratory data analysis, and data visualization.
 [project 03](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_03): 
 statistical data analysis, hypothesis testing and interpretation of statistical insights. 
 
-project 04: 
+[project 04](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_04): 
 Skills demonstrated:
 
 project 05: 
