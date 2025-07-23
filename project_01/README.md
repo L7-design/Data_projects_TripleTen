@@ -2,6 +2,10 @@
 
 The aim of this project is to investigate how the number of votes a title recieves impacts it ratings. In this project data was examined, preprocssed and analyzed. A conclusion was drawn based on the trends evaluated in the data.
 
+Purpose: The project will aim to answer the following question: 
+
+1. Will the data verify that the highly rated show also have the most votes?
+
 ## Data 
 
 Description of data:
