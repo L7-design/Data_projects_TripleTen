@@ -34,10 +34,10 @@ Skills demonstrated:
 [project 10](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_10): 
 Skills demonstrated:
 
-[Project 11](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_11): 
+[project 11](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_11): 
 Skills demonstrated:
 
-Project 12: 
+[project 12](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_12): 
 Skills demonstrated:
 
 Project 13: 
