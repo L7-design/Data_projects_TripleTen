@@ -20,7 +20,7 @@ data wrangling,statistical data analysis, hypothesis testing and interpretation 
 data visualisation, EDA, and use of classification models. 
 
 [project 06](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_06): 
-data wrangling, data visualisation, EDA and classificaiton of models with imbalanced classes. 
+data wrangling, data visualisation, EDA and classificaiton of models. 
 
 [project 07](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_07): 
 data wrangling, data visualisation, EDA and classificaiton of models.
