@@ -1,6 +1,7 @@
 ##Data Projects TripleTen 
 
-##Libraries used: 
+##Main Libraries used: 
+Pandas, Numpy, Scipy, Matplotlib, Plotly, Scikit-Learn, RE, XGBoost, LightGB,CatBoost, Tensorflow, Keras, PyTorch, NLTK, SpaCy
 
 ## Table of Contents For Projects 
 
@@ -11,19 +12,18 @@ basic python, data exploration, data preprocessing.
 data preprocessing, exploratory data analysis, and data visualization. 
 
 [project 03](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_03): 
-statistical data analysis, hypothesis testing and interpretation of statistical insights. 
+data wrangling,statistical data analysis, hypothesis testing and interpretation of statistical insights. 
 
-[project 04](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_04): 
-Skills demonstrated:
+[project 04](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_04): web scraping, SQL, data visualisation, EDA, and hypothesis testing and interpretation of statistical insights.
 
 [project 05](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_05): 
-Skills demonstrated:
+data visualisation, EDA, and use of classification models. 
 
 [project 06](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_06): 
-Skills demonstrated:
+data wrangling, data visualisation, EDA and classificaiton of models with imbalanced classes. 
 
 [project 07](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_07): 
-Skills demonstrated:
+data wrangling, data visualisation, EDA and classificaiton of models.
 
 [project 08](https://github.com/L7-design/Data_projects_TripleTen/tree/main/project_08): 
 Skills demonstrated:
